@@ -39,6 +39,7 @@ Possible values are:
 * container
 * collection
 * method
+* module
 * publication
 
 For `container`, the command generates `container`, and then also generates the
